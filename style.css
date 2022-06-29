@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@400;500;700&display=swap');
+*{
+    margin: 0rem;
+    padding: 0rem;
+    box-sizing: border-box;
+}
+body{
+    margin: 2rem;
+    font-family:'League Spartan', sans-serif;;
+}
+.sector1{
+    display: flex;
+    margin-bottom: 2rem;
+    justify-content: space-between;
+    color:#5c1b5c
+
+}
+.molly{
+    flex-basis: 35%;
+    
+}
+.user1{
+    font-size: 4rem;
+    margin-bottom: 2rem;
+    font-weight: 900;
+    
+}
+.user2{
+    font-size: 1.2rem;
+    opacity: 0.7;
+}
+.money{
+    border: 1rem;
+    background-color: #e290e2;
+    border-radius: 1rem;
+    padding: 0.7rem;
+    margin-bottom: 1rem;
+   
+}
+.rig{
+    margin-right: 1.5rem;
+
+}
+.dim{
+    margin-right: 2rem;
+}
+.sector2{
+    display: flex;
+
+}
+.clip{
+    border: 2rem;
+    background-color: #5c1b5c;
+    padding: 2rem;
+    margin-right: 2rem;
+    border-radius: 0.5rem;
+    color: #ffffff;
+}
+.tired{
+    display: flex;
+}
+.avatar{
+    border-radius: 50%;
+}
+.sleepy{
+     margin-left: 2rem;
+}
+.buyer{
+    color:Magenta
+}
